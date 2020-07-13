@@ -9,6 +9,9 @@
 # LWC VSCode autocomplete
 jsconfig.json
 
+# Coverage Folder
+coverage
+
 # Logs
 logs
 *.log
